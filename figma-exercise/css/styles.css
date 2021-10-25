@@ -17,7 +17,7 @@ body {
 /* HEADER */
 
 .header-content {
-    background-image: url(/images/get_coding.png);
+    background-image: url(../images/get_coding.png);
     height: 70%;
     background-size: cover;
     padding: 1.5rem;
